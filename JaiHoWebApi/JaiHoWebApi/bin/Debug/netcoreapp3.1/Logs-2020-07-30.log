@@ -1,0 +1,17 @@
+2020-07-30 23:24:24.5971||DEBUG|JaiHoWebApi.Program|init main function 
+2020-07-30 23:24:34.4881||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-07-30 23:24:34.5531||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-07-30 23:24:34.6072||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\v0c1624\Desktop\miindia\WebAPI Code\JaiHoWebApi\JaiHoWebApi 
+2020-07-30 23:27:58.0068||INFO|JaiHoWebApi.Controllers.LoginController|LoginController.UserLogin method called! 
+2020-07-30 23:29:10.5021||INFO|JaiHoWebApi.Controllers.LoginController|LoginController.UserLogin method called! 
+2020-07-30 23:36:00.0048||DEBUG|JaiHoWebApi.Program|init main function 
+2020-07-30 23:36:17.0759||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-07-30 23:36:17.2624||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-07-30 23:36:17.7737||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\v0c1624\Desktop\miindia\WebAPI Code\JaiHoWebApi\JaiHoWebApi 
+2020-07-30 23:38:23.2100||DEBUG|JaiHoWebApi.Program|init main function 
+2020-07-30 23:38:30.2924||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-07-30 23:38:30.2994||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-07-30 23:38:30.3764||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\v0c1624\Desktop\miindia\WebAPI Code\JaiHoWebApi\JaiHoWebApi 
+2020-07-30 23:39:30.3083||INFO|JaiHoWebApi.Controllers.LoginController|LoginController.RegisterUser method called! 
+2020-07-30 23:43:48.4415||INFO|JaiHoWebApi.Controllers.LoginController|LoginController.ChangePassword method called! 
+2020-07-30 23:44:48.4286||INFO|JaiHoWebApi.Controllers.LoginController|LoginController.ChangePassword method called! 
